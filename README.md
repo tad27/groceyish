@@ -4,6 +4,7 @@ This is a simple website UI for a fictional Food Ordering company called Groceyi
 ## Tech Stack
 - React JS
 - Tailwind CSS
+- Vercel
 
 
 ## Figma Design
