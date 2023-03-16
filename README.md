@@ -1,6 +1,9 @@
 # Groceyish
 This is a simple website UI for a fictional Food Ordering company called Groceyish.
 
+## Live Demo
+[Groceyish](https://groceyish-tad.vercel.app)
+
 ## Tech Stack
 - React JS
 - Tailwind CSS
